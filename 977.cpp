@@ -9,3 +9,4 @@ public:
         return v;
     }
 };
+///or it can be used like two pointer
